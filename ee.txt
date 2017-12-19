@@ -1,0 +1,3 @@
+Spectral analysis of nonstationary Signals, Musical Sound processing,
+signal Compression, Transmultiplexers, Discrete Multitone
+Transmission of digital data
